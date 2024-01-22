@@ -54,7 +54,7 @@ Task 2 Create Dashboard
 
 Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
 
-This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+This data model also shows how FACT_Budget has been connected to FACT_InternetSales and other necessary DIM tables.
 <img width="906" alt="Data model " src="https://github.com/Yannis0331/SQL-PowerBi-Project_Sales_Data_Analysis/assets/146744780/61fe1e50-9fff-4e51-8849-3784577f3717">
 
 2.Sales Management Dashboard
