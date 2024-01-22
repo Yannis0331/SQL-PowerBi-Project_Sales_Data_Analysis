@@ -23,7 +23,7 @@ Steven
 **3）User Stories:**
 
 
-| No # | As a (role)          | I want (request / demand)         | So that I (user value)                               | Acceptance Criteria                                      |
+| No  | As a (role)          | I want (request / demand)         | So that I (user value)                               | Acceptance Criteria                                      |
 | ---  | -------------------  | -------------------------------   | ---------------------------------------------------   | ------------------------------------------------------- |
 | 1    | Sales Manager        | Get a dashboard overview of internet sales | Follow sales trends for customers and products that perform the best | Power BI dashboard with daily data updates             |
 | 2    | Sales Representative | View detailed Internet Sales per Customers | Identify top customers and opportunities for upselling | Power BI dashboard with customer-specific filters       |
