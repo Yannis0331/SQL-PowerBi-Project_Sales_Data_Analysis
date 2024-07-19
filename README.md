@@ -63,7 +63,7 @@ The finished sales management dashboard with one page with works as a dashboard 
 
 https://app.powerbi.com/view?r=eyJrIjoiZmU1ZGYzZDYtZWUzMS00ZmQzLWE1MDUtODRkOGZhODIyZmM0IiwidCI6ImM0MDQ1MWRkLTc0ZjktNDZjNS1hNTg3LTAyODhhNTQ2YTAwZiJ9
 
-<img width="906" alt="image" src="https://github.com/Yannis0331/SQL-PowerBi-Project_Sales_Data_Analysis/assets/146744780/73b38da2-2b86-4c53-a471-598565674e29">
+<img width="906" alt="sales details" src="https://github.com/Yannis0331/SQL-PowerBi-Project_Sales_Data_Analysis/assets/146744780/73b38da2-2b86-4c53-a471-598565674e29">
 
 <img width="906" alt="customer details" src="https://github.com/Yannis0331/SQL-PowerBi-Project_Sales_Data_Analysis/assets/146744780/4e9ef75e-e5c8-4417-b2b8-801b92436cae">
 
